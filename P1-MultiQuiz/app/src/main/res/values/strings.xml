@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MultiQuiz</string>
+    <!-- Question Strings -->
+    <string name="question_1">Who is the GOAT of soccer?</string>
+    <string name="question_2">Who is the GOAT of basketball?</string>
+    <string name="question_3">Who is the GOAT of football?</string>
+    <string name="question_4">Who is the GOAT athlete?</string>
+
+    <!-- Answer Strings -->
+    <string name="answer_1_0">L.Messi</string>
+    <string name="answer_1_1">C.Ronaldo</string>
+    <string name="answer_1_2">Neymar</string>
+    <string name="answer_1_3">K.Mbappe</string>
+
+    <string name="answer_2_0">M.Jordan</string>
+    <string name="answer_2_1">L.James</string>
+    <string name="answer_2_2">K.Bryant</string>
+    <string name="answer_2_3">M.Johnson</string>
+
+    <string name="answer_3_0">P.Manning</string>
+    <string name="answer_3_1">A.Rodgers</string>
+    <string name="answer_3_2">T.Brady</string>
+    <string name="answer_3_3">J.Montana</string>
+
+    <string name="answer_4_0">U.Bolt</string>
+    <string name="answer_4_1">T.Woods</string>
+    <string name="answer_4_2">S.Williams</string>
+    <string name="answer_4_3">M.Phelps</string>
+
+    <!-- Action Button Text -->
+    <string name="hint_button_text">Hint</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="score_header">Score View</string>
+    <string name="reset_button">Reset</string>
+</resources>
